@@ -3,16 +3,19 @@ layout: page
 lang: es
 permalink: es/mascarillas.html
 
-title: Mascaretes
+title: Mascarillas
 img: mascarillas.jpg
 thumbnail: mascarillas-thumbnail.jpg
-description: "Fabriquem mascaretes personalitzades per al seu negoci o esdeveniment. Amb o sense homologació."
+description: "Fabricamos mascarillas personalizadas para su negocio o evento. Con o sin homologación."
 ---
-## Mascaretes
+## Mascarillas
 
-Fabriquem mascaretes personalitzades per al seu negoci o esdeveniment. Amb o sense homologació.
+Fabricamos mascarillas personalizadas para su negocio o evento. Con o sin homologación.
 
-### Mascaretes personalitzades
-![Mascaretes personalitzades]({{ site.url }}/es/img/mascarillas.jpg "Mascaretes personalitzades")
+### Mascarillas personalizadas
+![Mascarillas personalizadas]({{ site.url }}/es/img/mascarillas.jpg "Mascarillas personalizadas")
 
-### Mascaretes higièniques
+### Mascarillas higienicas
+![Mascarilla higienica]({{ site.url }}/es/img/mascarillas-higienicas-1.jpg "Mascarilla higienica")
+
+![Mascarilla higienica]({{ site.url }}/es/img/mascarillas-higienicas-2.jpg "Mascarilla higienica")
