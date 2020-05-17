@@ -1,0 +1,156 @@
+url: https://bellottechnics.github.io
+baseurl:
+
+plugins:
+  - jekyll-redirect-from
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+# Site settings
+title: BELLOT TECHNICS
+email: admon@bellottechnicsbm.com
+description: ""
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: facebook
+    url: https://www.facebook.com/bellottechincs/
+  - title: linkedin
+    url: https://www.linkedin.com/company/bellottechnicsbm/?originalSubdomain=es
+  - title: pinterest
+    url: https://www.pinterest.es/bellottechnics/
+  - title: twitter
+    url: https://twitter.com/BELLOTTECHNICS
+  - title: youtube
+    url: https://www.youtube.com/user/BELLOTTECHNICS
+
+# Català
+lang:
+  ca:
+    intro1: "Benvinguts al nostre Web!"
+    intro2: "UN MÓN DE SOLUCIONS"
+    more: "Llegir més"
+    close: "Tanca"
+    services: "Serveis"
+    services_description: "Disseny, producció, manipulat i lliurament arreu del món dels nostres productes."
+    services_design_title: "Disseny"
+    services_design_description: "Dissenyem la marca i el logo, creem tot l'etiquetat de les seves col·leccions."
+    services_handled_title: "Manipulats"
+    services_handled_description: "Elaborem treballs a la mida de cada client, tant en preu com en qualitat."
+    services_delivery_title: "Distribució"
+    services_delivery_description: "Col·loquem a qualsevol part del món les seves comandes."
+    services_photo_title: "Fotografia de producte"
+    services_photo_description: "Oferim tots els serveis fotogràfics que la seva marca necessita."
+    products: "Productes"
+    products_description: "Trobeu els productes adequats per al vostre negoci i projecte."
+    contact: "Contactar"
+    contact_name: "El teu nom"
+    contact_name_validation: "Introduïu el vostre nom."
+    contact_email: "El teu e-mail"
+    contact_email_validation: "Introduïu el vostre email."
+    contact_phone: "El teu telèfon"
+    contact_phone_validation: "Introduïu el vostre telèfon."
+    contact_message: "El teu missatge"
+    contact_message_validation: "Introduïu el vostre missatge."
+    contact_send: "Enviar el missatge"
+    privacy: "Privacitat"
+    legal: "Avís legal"
+    about: "Sobre nosaltres"
+    about_description: "Combinant una constant modernització del nostre catàleg junt amb la investigació i desenvolupament de noves solucions de suport en imatge corporativa, a Bellot Technics apostem per un negoci de desenvolupament sostenible, pel benestar dels nostres col·laboradors i la responsabilitat social i del medi-ambient, mirant de sorprendre els nostres clients amb el disseny i la innovació dels nostres productes i serveis, i satisfer i superar les seves expectatives. "
+    about_vision: "VISIÓ"
+    about_vision_description: "Ésser l'empresa que comprèn i satisfà millor les necessitats de producte, servei i identitat d'una marca."
+    about_mission: "MISSIÓ"
+    about_mission_description: "Superar les expectatives dels nostres clients amb solucions innovadores i personalitzades que donin suport de la seva imatge."
+    about_values: "VALORS"
+    about_values_description: "CREDIBILITAT - Confiar en els altres i construir relacions basades en la confiança.<br>
+                               QUALITAT - Fem les coses de forma simple i eficaç.<br>
+                               ATENCIÓ - Fixar-nos fins el més petit detall és imperatiu per aconseguir la perfecció.<br>
+                               PASSIÓ - Treballant amb valentia, desafiant l'estatus quo, avançant contínuament, innovant i millorant dia a dia.<br>
+                               INNOVACIÓ - Recerca i desenvolupament continu per a crec nous i millors productes.<br>
+                               FLEXIBILITAT - Pensant i actuant tenint sempre en compte els nostres clients.<br>"
+  es:
+    intro1: "Benvinguts al nostre Web!"
+    intro2: "UN MÓN DE SOLUCIONS"
+    more: "Llegir més"
+    close: "Tanca"
+    services: "Serveis"
+    services_description: "Disseny, producció, manipulat i lliurament arreu del món dels nostres productes."
+    services_design_title: "Disseny"
+    services_design_description: "Dissenyem la marca i el logo, creem tot l'etiquetat de les seves col·leccions."
+    services_handled_title: "Manipulats"
+    services_handled_description: "Elaborem treballs a la mida de cada client, tant en preu com en qualitat."
+    services_delivery_title: "Distribució"
+    services_delivery_description: "Col·loquem a qualsevol part del món les seves comandes."
+    services_photo_title: "Fotografia de producte"
+    services_photo_description: "Oferim tots els serveis fotogràfics que la seva marca necessita."
+    products: "Productes"
+    products_description: "Trobeu els productes adequats per al vostre negoci i projecte."
+    contact: "Contactar"
+    contact_name: "El teu nom"
+    contact_name_validation: "Introduïu el vostre nom."
+    contact_email: "El teu e-mail"
+    contact_email_validation: "Introduïu el vostre email."
+    contact_phone: "El teu telèfon"
+    contact_phone_validation: "Introduïu el vostre telèfon."
+    contact_message: "El teu missatge"
+    contact_message_validation: "Introduïu el vostre missatge."
+    contact_send: "Enviar el missatge"
+    privacy: "Privacitat"
+    legal: "Avís legal"
+    about: "Sobre nosaltres"
+    about_description: "Combinant una constant modernització del nostre catàleg junt amb la investigació i desenvolupament de noves solucions de suport en imatge corporativa, a Bellot Technics apostem per un negoci de desenvolupament sostenible, pel benestar dels nostres col·laboradors i la responsabilitat social i del medi-ambient, mirant de sorprendre els nostres clients amb el disseny i la innovació dels nostres productes i serveis, i satisfer i superar les seves expectatives. "
+    about_vision: "VISIÓ"
+    about_vision_description: "Ésser l'empresa que comprèn i satisfà millor les necessitats de producte, servei i identitat d'una marca."
+    about_mission: "MISSIÓ"
+    about_mission_description: "Superar les expectatives dels nostres clients amb solucions innovadores i personalitzades que donin suport de la seva imatge."
+    about_values: "VALORS"
+    about_values_description: "CREDIBILITAT - Confiar en els altres i construir relacions basades en la confiança.<br>
+                               QUALITAT - Fem les coses de forma simple i eficaç.<br>
+                               ATENCIÓ - Fixar-nos fins el més petit detall és imperatiu per aconseguir la perfecció.<br>
+                               PASSIÓ - Treballant amb valentia, desafiant l'estatus quo, avançant contínuament, innovant i millorant dia a dia.<br>
+                               INNOVACIÓ - Recerca i desenvolupament continu per a crec nous i millors productes.<br>
+                               FLEXIBILITAT - Pensant i actuant tenint sempre en compte els nostres clients.<br>"
+  en:
+    intro1: "Benvinguts al nostre Web!"
+    intro2: "UN MÓN DE SOLUCIONS"
+    more: "Llegir més"
+    close: "Tanca"
+    services: "Serveis"
+    services_description: "Disseny, producció, manipulat i lliurament arreu del món dels nostres productes."
+    services_design_title: "Disseny"
+    services_design_description: "Dissenyem la marca i el logo, creem tot l'etiquetat de les seves col·leccions."
+    services_handled_title: "Manipulats"
+    services_handled_description: "Elaborem treballs a la mida de cada client, tant en preu com en qualitat."
+    services_delivery_title: "Distribució"
+    services_delivery_description: "Col·loquem a qualsevol part del món les seves comandes."
+    services_photo_title: "Fotografia de producte"
+    services_photo_description: "Oferim tots els serveis fotogràfics que la seva marca necessita."
+    products: "Productes"
+    products_description: "Trobeu els productes adequats per al vostre negoci i projecte."
+    contact: "Contactar"
+    contact_name: "El teu nom"
+    contact_name_validation: "Introduïu el vostre nom."
+    contact_email: "El teu e-mail"
+    contact_email_validation: "Introduïu el vostre email."
+    contact_phone: "El teu telèfon"
+    contact_phone_validation: "Introduïu el vostre telèfon."
+    contact_message: "El teu missatge"
+    contact_message_validation: "Introduïu el vostre missatge."
+    contact_send: "Enviar el missatge"
+    privacy: "Privacitat"
+    legal: "Avís legal"
+    about: "Sobre nosaltres"
+    about_description: "Combinant una constant modernització del nostre catàleg junt amb la investigació i desenvolupament de noves solucions de suport en imatge corporativa, a Bellot Technics apostem per un negoci de desenvolupament sostenible, pel benestar dels nostres col·laboradors i la responsabilitat social i del medi-ambient, mirant de sorprendre els nostres clients amb el disseny i la innovació dels nostres productes i serveis, i satisfer i superar les seves expectatives. "
+    about_vision: "VISIÓ"
+    about_vision_description: "Ésser l'empresa que comprèn i satisfà millor les necessitats de producte, servei i identitat d'una marca."
+    about_mission: "MISSIÓ"
+    about_mission_description: "Superar les expectatives dels nostres clients amb solucions innovadores i personalitzades que donin suport de la seva imatge."
+    about_values: "VALORS"
+    about_values_description: "CREDIBILITAT - Confiar en els altres i construir relacions basades en la confiança.<br>
+                               QUALITAT - Fem les coses de forma simple i eficaç.<br>
+                               ATENCIÓ - Fixar-nos fins el més petit detall és imperatiu per aconseguir la perfecció.<br>
+                               PASSIÓ - Treballant amb valentia, desafiant l'estatus quo, avançant contínuament, innovant i millorant dia a dia.<br>
+                               INNOVACIÓ - Recerca i desenvolupament continu per a crec nous i millors productes.<br>
+                               FLEXIBILITAT - Pensant i actuant tenint sempre en compte els nostres clients.<br>"
