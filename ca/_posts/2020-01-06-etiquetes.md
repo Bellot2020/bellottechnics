@@ -1,6 +1,22 @@
 ---
 layout: page
 lang: ca
+redirect_from:
+  - /ca/productos/etiquetes-penjants.html
+  - /ca/productos/etiquetes-de-tela.html
+  - /ca/productos/etiquetes-teixides.html
+  - /ca/productos/etiquetes-de-goma-i-silicona.html
+  - /ca/productos/etiquetes-de-cuir-jackron-i-especials.html
+  - /ca/productos/etiquetes-per-alta-joieria-bijuteria-i-complements.html
+  - /ca/productos/etiquetes-adhesives.html
+  - /ca/productos/etiquetes-alimentacio.html
+  - /ca/productos/etiquetes-penjants-de-paper-i-cartro.html
+  - /ca/productos/etiquetes-penjants-de-plastic.html
+  - /ca/productos/combinacions-etiquetes-penjants.html
+  - /ca/productos/etiquetes-de-composicio.html
+  - /ca/productos/cintes-offset.html
+  - /ca/productos/cintes-serigrafia.html
+  - /ca/productos/cintes-relleu.html
 permalink: ca/etiquetes.html
 
 title: Etiquetes

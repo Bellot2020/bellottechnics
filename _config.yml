@@ -11,7 +11,6 @@ permalink: pretty
 # Site settings
 title: BELLOT TECHNICS
 email: admon@bellottechnicsbm.com
-description: ""
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -29,10 +28,14 @@ social:
 # Català
 lang:
   ca:
+    site_description: "Empresa especialitzada en solucions d'etiquetatge i packaging personalitzat per als sectors tèxtil i confecció, joieria, bijuteria, rellotgeria i complements, alimentació, etc."
     intro1: "Benvinguts al nostre Web!"
     intro2: "UN MÓN DE SOLUCIONS"
     more: "Llegir més"
     close: "Tanca"
+    colaborators: "Col·laboradors"
+    colaborators_marta: "Fotografia professional"
+    colaborators_certificatinos: "Certificació d’Eficiència Energètica"
     services: "Serveis"
     services_description: "Disseny, producció, manipulat i lliurament arreu del món dels nostres productes."
     services_design_title: "Disseny"
@@ -71,10 +74,14 @@ lang:
                                INNOVACIÓ - Recerca i desenvolupament continu per a crec nous i millors productes.<br>
                                FLEXIBILITAT - Pensant i actuant tenint sempre en compte els nostres clients.<br>"
   es:
+    site_description: "Empresa especialitzada en solucions d'etiquetatge i packaging personalitzat per als sectors tèxtil i confecció, joieria, bijuteria, rellotgeria i complements, alimentació, etc."
     intro1: "Benvinguts al nostre Web!"
     intro2: "UN MÓN DE SOLUCIONS"
     more: "Llegir més"
     close: "Tanca"
+    colaborators: "Col·laboradors"
+    colaborators_marta: "Fotografia professional"
+    colaborators_certificatinos: "Certificació d’Eficiència Energètica"
     services: "Serveis"
     services_description: "Disseny, producció, manipulat i lliurament arreu del món dels nostres productes."
     services_design_title: "Disseny"
@@ -113,10 +120,14 @@ lang:
                                INNOVACIÓ - Recerca i desenvolupament continu per a crec nous i millors productes.<br>
                                FLEXIBILITAT - Pensant i actuant tenint sempre en compte els nostres clients.<br>"
   en:
+    site_description: "Empresa especialitzada en solucions d'etiquetatge i packaging personalitzat per als sectors tèxtil i confecció, joieria, bijuteria, rellotgeria i complements, alimentació, etc."
     intro1: "Benvinguts al nostre Web!"
     intro2: "UN MÓN DE SOLUCIONS"
     more: "Llegir més"
     close: "Tanca"
+    colaborators: "Col·laboradors"
+    colaborators_marta: "Fotografia professional"
+    colaborators_certificatinos: "Certificació d’Eficiència Energètica"
     services: "Serveis"
     services_description: "Disseny, producció, manipulat i lliurament arreu del món dels nostres productes."
     services_design_title: "Disseny"

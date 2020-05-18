@@ -1,6 +1,23 @@
 ---
 layout: page
 lang: ca
+redirect_from:
+  - /ca/productos/distintius-de-marca.html
+  - /ca/productos/sobres-per-a-botons.html
+  - /ca/productos/rfid.html
+  - /ca/productos/alarmes.html
+  - /ca/productos/targetes-de-pvc.html
+  - /ca/productos/packaging.html
+  - /ca/productos/agendes-i-llibretes.html
+  - /ca/productos/bosses-diverses.html
+  - /ca/productos/articles-publicitaris.html
+  - /ca/productos/escuts-brodats.html
+  - /ca/productos/distintius-de-marca-metallics.html
+  - /ca/productos/distintius-de-marca-de-plastic.html
+  - /ca/productos/caixes-i-embalatges.html
+  - /ca/productos/bosses-de-paper.html
+  - /ca/productos/bosses-de-plastic.html
+  - /ca/productos/bosses-per-ampolles.html
 permalink: ca/merxandatge.html
 
 title: Merxandatge

@@ -1,6 +1,8 @@
 ---
 layout: page
 lang: en
+redirect_from:
+  - /en/productos/handles-zipper.html
 permalink: en/zipper-pulls.html
 
 title: Tibadors Cremallera

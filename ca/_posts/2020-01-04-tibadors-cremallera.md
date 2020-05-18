@@ -1,6 +1,8 @@
 ---
 layout: page
 lang: ca
+redirect_from:
+  - /ca/productos/tiradors-per-a-cremallera.html
 permalink: ca/tibadors-cremallera.html
 
 title: Tibadors Cremallera

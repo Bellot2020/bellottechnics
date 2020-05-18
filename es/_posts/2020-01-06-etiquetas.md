@@ -1,6 +1,19 @@
 ---
 layout: page
 lang: es
+redirect_from:
+  - /es/productos/etiquetas-colgantes.html
+  - /es/productos/etiquetas-de-tela.html
+  - /es/productos/etiquetas-tejidas.html
+  - /es/productos/etiquetas-de-goma-y-silicona.html
+  - /es/productos/etiquetas-de-cuero-jackron-y-especiales.html
+  - /es/productos/etiquetas-para-alta-joyeria-bisuteria-y-complementos.html
+  - /es/productos/etiquetas-adhesivas.html
+  - /es/productos/etiquetas-alimentacion.html
+  - /es/productos/etiquetas-colgantes-de-papel-y-carton.html
+  - /es/productos/etiquetas-colgantes-de-plastico.html
+  - /es/productos/combinaciones-de-etiquetas-colgantes.html
+  - /es/productos/etiquetas-de-composicion.html
 permalink: es/etiquetas.html
 
 title: Etiquetes

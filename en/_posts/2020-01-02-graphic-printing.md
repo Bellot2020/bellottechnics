@@ -1,6 +1,8 @@
 ---
 layout: page
 lang: en
+redirect_from:
+  - /en/productos/graphic-printing.html
 permalink: en/graphic-printing.html
 
 title: Impressió Gràfica

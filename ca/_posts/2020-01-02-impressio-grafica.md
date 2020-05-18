@@ -1,6 +1,8 @@
 ---
 layout: page
 lang: ca
+redirect_from:
+  - /ca/productos/impressio-grafica.html
 permalink: ca/impressio-grafica.html
 
 title: Impressió Gràfica
