@@ -16,37 +16,37 @@ redirect_from:
   - /es/productos/etiquetas-de-composicion.html
 permalink: es/etiquetas.html
 
-title: Etiquetes
+title: Etiquetas
 img: etiquetas.png
 thumbnail: etiquetas-thumbnail.png
-description: L’etiqueta és l’article indispensable que acompanya cada producte fins la fi del seu recorregut. Per això cal que transmeti allò que fa que el nostre producte es distingeixi de la resta.
+description: La etiqueta es el artículo indispensable que acompaña cada producto hasta el final de su recorrido. Por eso debe transmitir todo aquello que distingue a nuestro producto del resto.
 ---
-## Etiquetes
+## Etiquetas
 
-L’etiqueta és l’article indispensable que acompanya cada producte fins la fi del seu recorregut. Per això cal que transmeti allò que fa que el nostre producte es distingeixi de la resta.
+La etiqueta es el artículo indispensable que acompaña cada producto hasta el final de su recorrido. Por eso debe transmitir todo aquello que distingue a nuestro producto del resto.
 
-### Etiquetes de cartró
-![Etiqueta de cartró]({{ site.url }}/es/img/etiqueta-1.png "Etiqueta de cartró")
+### Etiquetas de cartón
+![Etiqueta de cartón]({{ site.url }}/es/img/etiqueta-1.png "Etiqueta de cartón")
 
-### Etiquetes teixides
-![Etiqueta teixida]({{ site.url }}/es/img/etiqueta-2.png "Etiqueta teixida")
+### Etiquetas tejidas
+![Etiqueta tejida]({{ site.url }}/es/img/etiqueta-2.png "Etiqueta tejida")
 
-### Etiquetes de tela
+### Etiquetas de tela
 ![Etiqueta de tela]({{ site.url }}/es/img/etiqueta-3.png "Etiqueta de tela")
 
-### Etiquetes de goma i silicona
-![Etiqueta de goma i silicona]({{ site.url }}/es/img/etiqueta-4.png "Etiqueta de goma i silicona")
+### Etiquetas de goma, silicona y PVC
+![Etiqueta de goma, silicona y PVC]({{ site.url }}/es/img/etiqueta-4.png "Etiqueta de goma, silicona y PVC")
 
-### Etiquetes de pell, jackron i especials
-![Etiqueta de pell, jackron i especials]({{ site.url }}/es/img/etiqueta-5.png "Etiqueta de pell, jackron i especials")
+### Etiquetas de cuero, jackron y especiales
+![Etiqueta de cuero, jackron y especiales]({{ site.url }}/es/img/etiqueta-5.png "Etiqueta de cuero, jackron i especiales")
 
-### Etiquetes joieria i complements
-![Etiqueta joieria i complements]({{ site.url }}/es/img/etiqueta-6.jpg "Etiqueta joieria i complements")
+### Etiquetas joyería y complementos
+![Etiqueta joyería y complementos]({{ site.url }}/es/img/etiqueta-6.jpg "Etiqueta joyería y complementos")
 
-### Etiquetes informatives i de composició
-![Etiquetes informatives i de composició]({{ site.url }}/es/img/etiqueta-16.png "Etiquetes informatives i de composició")
+### Etiquetas informativas y de composición
+![Etiquetas informativas y de composición]({{ site.url }}/es/img/etiqueta-16.png "Etiquetas informativas i de composición")
 
-### Galeria d'imatges
+### Galeria de imágenes
 ![Etiqueta]({{ site.url }}/es/img/etiqueta-7.png "Etiqueta")
 
 ![Etiqueta]({{ site.url }}/es/img/etiqueta-8.png "Etiqueta")
