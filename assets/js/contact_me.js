@@ -18,7 +18,7 @@ $(function() {
                 firstName = name.split(' ').slice(0, -1).join(' ');
             }
             $.ajax({
-                url: "http://www.bellottechnicsbm.es/contact_me.php",
+                url: "https://app.99inbound.com/api/e/lcPn7wKK",
                 type: "POST",
                 data: {
                     name: name,
