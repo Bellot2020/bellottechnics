@@ -18,7 +18,7 @@ $(function() {
                 firstName = name.split(' ').slice(0, -1).join(' ');
             }
             $.ajax({
-                url: "https://app.99inbound.com/api/e/lcPn7wKK",
+                url: "https://app.99inbound.com/api/e/nDTz18CA",
                 type: "POST",
                 data: {
                     name: name,
