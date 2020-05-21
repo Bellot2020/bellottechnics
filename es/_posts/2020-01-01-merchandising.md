@@ -25,7 +25,7 @@ redirect_from:
   - /es/productos/e-packaging.html
 permalink: es/merchandising.html
 
-title: Merxandatge
+title: Merchandising
 img: merchandising.png
 thumbnail: merchandising-thumbnail.png
 description: 
