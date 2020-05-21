@@ -30,35 +30,35 @@ img: merchandising.png
 thumbnail: merchandising-thumbnail.png
 description: 
 ---
-## Merxandatge
+## Merchandising
 
-### Gran format
-Photo Call - Roll Up - Fly Surf - Banderes - Domassos   
+### Gran formato
+Photo Call - Roll Up - Fly Surf - Banderas   
 
-### Tèxtil
-Roba - Bosses - Bufandes   
+### Textil
+Ropa - Bolsas - Bufandas   
 
-![Merxandatge Tèxtil]({{ site.url }}/es/img/merchandising-1.png "Merxandatge Tèxtil")
+![Merchandising Textil]({{ site.url }}/es/img/merchandising-1.png "Merchandising Textil")
 
 ### Gadgets
-Clauers - Braçalets - Xapes   
+Llaveros - Pulseras - Chapas - Posavasos   
 
-![Merxandatge Gadgets]({{ site.url }}/es/img/merchandising-2.jpg "Merxandatge Gadgets")
+![Merchandising Gadgets]({{ site.url }}/es/img/merchandising-2.jpg "Merchandising Gadgets")
 
-### Galeria d'imatges
+### Galeria de imágenes
 
-![Merxandatge Gadgets]({{ site.url }}/es/img/merchandising-3.jpg "Merxandatge Gadgets")
+![Merchandising Gadgets]({{ site.url }}/es/img/merchandising-3.jpg "Merchandising Gadgets")
 
-![Merxandatge Gadgets]({{ site.url }}/es/img/merchandising-4.jpg "Merxandatge Gadgets")
+![Merchandising Gadgets]({{ site.url }}/es/img/merchandising-4.jpg "Merchandising Gadgets")
 
-![Merxandatge Gadgets]({{ site.url }}/es/img/merchandising-5.jpg "Merxandatge Gadgets")
+![Merchandising Gadgets]({{ site.url }}/es/img/merchandising-5.jpg "Merchandising Gadgets")
 
-![Merxandatge Gadgets]({{ site.url }}/es/img/merchandising-6.jpg "Merxandatge Gadgets")
+![Merchandising Gadgets]({{ site.url }}/es/img/merchandising-6.jpg "Merchandising Gadgets")
 
-![Merxandatge Gadgets]({{ site.url }}/es/img/merchandising-7.jpg "Merxandatge Gadgets")
+![Merchandising Gadgets]({{ site.url }}/es/img/merchandising-7.jpg "Merchandising Gadgets")
 
-![Merxandatge Gadgets]({{ site.url }}/es/img/merchandising-8.jpg "Merxandatge Gadgets")
+![Merchandising Gadgets]({{ site.url }}/es/img/merchandising-8.jpg "Merchandising Gadgets")
 
-![Merxandatge Gadgets]({{ site.url }}/es/img/merchandising-9.jpg "Merxandatge Gadgets")
+![Merchandising Gadgets]({{ site.url }}/es/img/merchandising-9.jpg "Merchandising Gadgets")
 
-![Merxandatge Gadgets]({{ site.url }}/es/img/merchandising-10.jpg "Merxandatge Gadgets")
+![Merchandising Gadgets]({{ site.url }}/es/img/merchandising-10.jpg "Merchandising Gadgets")
