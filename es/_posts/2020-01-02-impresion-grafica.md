@@ -5,14 +5,14 @@ redirect_from:
   - /es/productos/impresion-grafica.html
 permalink: es/impresion-grafica.html
 
-title: Impressió Gràfica
+title: Impresión Gráfica
 img: impresion-grafica.jpg
 thumbnail: impresion-grafica-thumbnail.jpg
-description: "Imprimim qualsevol tipus de publicitat o document a la nostra impremta."
+description: "Imprimimos cualquier tipo de publicidad, catálogo o documento en nuestra imprenta."
 ---
-## Impressió Gràfica
+## Impresión Gráfica
 
-Imprimim qualsevol tipus de publicitat o document a la nostra impremta.
+Imprimimos cualquier tipo de publicidad, catálogo o documento en nuestra imprenta.
 
-![Impressió Gràfica]({{ site.url }}/es/img/impresion-grafica.jpg "Impressió Gràfica")
+![Impresión Gráfica]({{ site.url }}/es/img/impresion-grafica.jpg "Impresión Gráfica")
 
