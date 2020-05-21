@@ -6,11 +6,11 @@ permalink: es/mascarillas.html
 title: Mascarillas
 img: mascarillas.jpg
 thumbnail: mascarillas-thumbnail.jpg
-description: "Fabricamos mascarillas personalizadas para su negocio o evento. Con o sin homologación."
+description: "Fabricamos mascarillas personalizadas para su negocio o evento. Homologadas FFP2 y FFP3."
 ---
 ## Mascarillas
 
-Fabricamos mascarillas personalizadas para su negocio o evento. Con o sin homologación.
+Fabricamos mascarillas personalizadas para su negocio o evento. Homologadas FFP2 y FFP3.
 
 ### Mascarillas personalizadas
 ![Mascarillas personalizadas]({{ site.url }}/es/img/mascarillas.jpg "Mascarillas personalizadas")
