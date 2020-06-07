@@ -5,12 +5,12 @@ redirect_from:
   - /en/productos/handles-zipper.html
 permalink: en/zipper-pulls.html
 
-title: Tibadors Cremallera
+title: Zipper Pulls
 img: zipper-pulls.jpg
 thumbnail: zipper-pulls-thumbnail.jpg
-description: "Dues possibilitats per a personalitzar les seves cremalleres: Tibadors de goma i tibadors encoixinats."
+description: "Two possibilities to personalize your zippers: rubber handles and padded handles."
 ---
-## Tibadors Cremallera
-Dues possibilitats per a personalitzar les seves cremalleres: Tibadors de goma i tibadors encoixinats.
+## Zipper Pulls
+Two possibilities to personalize your zippers: rubber handles and padded handles.
 
-![Tibadors Cremallera]({{ site.url }}/en/img/zipper-pulls.jpg "Tibadors Cremallera")
+![Zipper Pulls]({{ site.url }}/en/img/zipper-pulls.jpg "Zipper Pulls")
