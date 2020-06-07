@@ -28,27 +28,27 @@ redirect_from:
   - /en/productos/e-packaging.html
 permalink: en/merchandising.html
 
-title: Merxandatge
+title: Merchandising
 img: merchandising.png
 thumbnail: merchandising-thumbnail.png
 description: 
 ---
-## Merxandatge
+## Merchandising
 
-### Gran format
-Photo Call - Roll Up - Fly Surf - Banderes - Domassos   
+### Big format
+Photo Call - Roll Up - Fly Surf - Flags
 
-### Tèxtil
-Roba - Bosses - Bufandes   
+### Textile
+Clothes - Sportswear - Bags - Custom scarfs - Pillows  
 
-![Merxandatge Tèxtil]({{ site.url }}/en/img/merchandising-1.png "Merxandatge Tèxtil")
+![Custom Textile]({{ site.url }}/en/img/merchandising-1.png "Custom Textile")
 
 ### Gadgets
-Clauers - Braçalets - Xapes   
+Key Chain - Bracelets - Custom Badges 
 
-![Merxandatge Gadgets]({{ site.url }}/en/img/merchandising-2.jpg "Merxandatge Gadgets")
+![Gadgets]({{ site.url }}/en/img/merchandising-2.jpg "Gadgets")
 
-### Galeria d'imatges
+### Image Gallery
 
 ![Merxandatge Gadgets]({{ site.url }}/en/img/merchandising-3.jpg "Merxandatge Gadgets")
 
