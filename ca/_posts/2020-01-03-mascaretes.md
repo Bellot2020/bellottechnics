@@ -12,14 +12,20 @@ description: "Fabriquem mascaretes personalitzades per al seu negoci o esdevenim
 
 Fabriquem mascaretes personalitzades per al seu negoci o esdeveniment. Homologades i reutilitzables. Teixit hignífug 100% cotó orgànic, repelent als líquids, transpirable i anti-vacteris.
 
+![Mascaretes personalitzades sublimació]({{ site.url }}/ca/img/mascaretes.jpg "Mascaretes personalitzades sublimació")
+
+
+
 ### Mascaretes personalitzades - Sublimació
 
 ![Mascaretes personalitzades sublimació]({{ site.url }}/ca/img/mascaretes.jpg "Mascaretes personalitzades sublimació")
 
 
+
 ### Mascaretes personalitzades - Serigrafía
 
 ![Mascaretes personalitzades serigrafía]({{ site.url }}/ca/img/mascarilla-con-logo.jpg "Mascaretes personalitzades serigrafía")
+
 
 
 ### Mascaretes reutilitzables higièniques - Estampades
@@ -29,8 +35,6 @@ Fabriquem mascaretes personalitzades per al seu negoci o esdeveniment. Homologad
 ![Mascaretes reutilitzables higièniques bandana]({{ site.url }}/ca/img/mascareta-bandana.jpg "Mascaretes reutilitzables higièniques bandana")
 
 
-
-### Mascaretes reutilitzables higièniques - Estampades
 
 #### Camuflatge
 
