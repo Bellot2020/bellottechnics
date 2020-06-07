@@ -2,8 +2,8 @@
 layout: page
 lang: en
 redirect_from:
-  - /en/productos/face-masks.html
-permalink: en/face-masks.html
+  - /en/productos/face-mask.html
+permalink: en/face-mask.html
 
 title: Face Mask
 img: face-masks.jpg
