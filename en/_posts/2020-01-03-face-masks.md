@@ -5,7 +5,7 @@ permalink: en/face-masks.html
 
 title: Face Mask
 img: face-masks.jpg
-thumbnail: mascarillas-thumbnail.jpg
+thumbnail: face-masks-thumbnail.jpg
 description: "We manufacture custom masks for your business or event. Approved and reusable. Hignifugal fabric, 100% organic cotton, liquid repellent, breathable and antibacterial."
 ---
 
