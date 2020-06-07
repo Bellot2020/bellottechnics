@@ -20,4 +20,6 @@ Fabriquem mascaretes personalitzades per al seu negoci o esdeveniment. Homologad
 
 ### Mascaretes reutilitzables higièniques
 
-![Mascaretes reutilitzables higièniques]({{ site.url }}/ca/img/mascaretes.jpg "Mascaretes reutilitzables higièniques")
+![Mascaretes reutilitzables higièniques]({{ site.url }}/ca/img/mascareta-bandana.jpg "Mascaretes reutilitzables higièniques")
+
+
