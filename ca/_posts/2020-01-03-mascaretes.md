@@ -34,4 +34,10 @@ Fabriquem mascaretes personalitzades per al seu negoci o esdeveniment. Homologad
 
 #### Camuflatge
 
-![Mascaretes reutilitzables higièniques camuflatge]({{ site.url }}/ca/img/mascareta-bandana.jpg "Mascaretes reutilitzables higièniques camuflatge")
+![Mascaretes reutilitzables higièniques camuflatge Grey]({{ site.url }}/ca/img/mascarilla-camuflaje-grey.jpg "Mascaretes reutilitzables higièniques camuflatge Grey")
+
+
+![Mascaretes reutilitzables higièniques camuflatge Pink]({{ site.url }}/ca/img/mascarilla-camuflaje-pink.jpg "Mascaretes reutilitzables higièniques camuflatge Pink")
+
+
+![Mascaretes reutilitzables higièniques camuflatge Green]({{ site.url }}/ca/img/mascarilla-camuflaje-green.jpg "Mascaretes reutilitzables higièniques camuflatge Green")
