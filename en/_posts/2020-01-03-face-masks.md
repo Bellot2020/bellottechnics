@@ -1,8 +1,6 @@
 ---
 layout: page
 lang: en
-redirect_from:
-  - /en/productos/face-mask.html
 permalink: en/face-mask.html
 
 title: Face Mask
