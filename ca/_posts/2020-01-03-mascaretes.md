@@ -19,11 +19,19 @@ Fabriquem mascaretes personalitzades per al seu negoci o esdeveniment. Homologad
 
 ### Mascaretes personalitzades - Serigrafía
 
-![Mascaretes personalitzades serigrafía]({{ site.url }}/ca/img/mascarilla-con-logo.pdf "Mascaretes personalitzades serigrafía")
+![Mascaretes personalitzades serigrafía]({{ site.url }}/ca/img/mascarilla-con-logo.jpg "Mascaretes personalitzades serigrafía")
 
 
-### Mascaretes reutilitzables higièniques
+### Mascaretes reutilitzables higièniques - Estampades
 
-![Mascaretes reutilitzables higièniques]({{ site.url }}/ca/img/mascareta-bandana.jpg "Mascaretes reutilitzables higièniques")
+#### Bandana
+
+![Mascaretes reutilitzables higièniques bandana]({{ site.url }}/ca/img/mascareta-bandana.jpg "Mascaretes reutilitzables higièniques bandana")
 
 
+
+### Mascaretes reutilitzables higièniques - Estampades
+
+#### Camuflatge
+
+![Mascaretes reutilitzables higièniques camuflatge]({{ site.url }}/ca/img/mascareta-bandana.jpg "Mascaretes reutilitzables higièniques camuflatge")
