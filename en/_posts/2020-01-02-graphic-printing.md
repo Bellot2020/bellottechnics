@@ -8,11 +8,11 @@ permalink: en/graphic-printing.html
 title: Graphic Printing
 img: graphic-printing.jpg
 thumbnail: graphic-printing-thumbnail.jpg
-description: "Imprimim qualsevol tipus de publicitat o document a la nostra impremta."
+description: "We print any type of advertising, catalog or document on our printing press."
 ---
-## Impressió Gràfica
+## Graphic Printing
 
-Imprimim qualsevol tipus de publicitat o document a la nostra impremta.
+We print any type of advertising, catalog or document on our printing press.
 
-![Impressió Gràfica]({{ site.url }}/en/img/graphic-printing.jpg "Impressió Gràfica")
+![Graphic Printing]({{ site.url }}/en/img/graphic-printing.jpg "Graphic Printing")
 
