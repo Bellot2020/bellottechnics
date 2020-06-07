@@ -12,7 +12,7 @@ description: "Fabriquem mascaretes personalitzades per al seu negoci o esdevenim
 
 Fabriquem mascaretes personalitzades per al seu negoci o esdeveniment. Homologades i reutilitzables. Teixit hignífug 100% cotó orgànic, repelent als líquids, transpirable i anti-vacteris.
 
-![Mascaretes personalitzades sublimació]({{ site.url }}/ca/img/mascaretes.jpg "Mascaretes personalitzades sublimació")
+![Mascaretes]({{ site.url }}/ca/img/Propiedades-mascarillas-ALG.jpg "Mascaretes")
 
 
 
